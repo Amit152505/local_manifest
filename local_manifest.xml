@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-
+  <remote  name="itsvixano-dev-gitlab"
+           fetch="https://gitlab.com/itsvixano-dev" />
  <!-- Trees -->
  <project path="device/xiaomi/lisa" name="Amit152505/android_device_xiaomi_lisa_linage.git" remote="github" revision="lineage-20" />
  <project path="device/xiaomi/sm8350-common" name="Amit152505/android_device_xiaomi_sm8350-common.git" remote="github" revision="lineage-20" />
